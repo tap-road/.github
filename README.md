@@ -2,6 +2,7 @@
 <h2>Tap Road: Master the Art of Precision Tapping!</h2>
 <p>Test your reflexes in this addictive arcade challenge where a single mistimed tap ends your run. How far can you guide your sphere through this neon-lit obstacle course?</p>
 <h3>Play Now Tap Road:&nbsp;<a href="https://taproad.io/">Taproad.io</a></h3>
+<img src="https://github.com/tap-road/.github/blob/main/tap%20road%20io.jpg?raw=true">
 <h3>Tap Road: The Global Arcade Sensation</h3>
 <p>Experience the thrill of controlling a bouncing sphere through endless vibrant pathways where speed and precision collide. Every dash delivers heart-pounding excitement&mdash;are you ready for the ultimate test of focus and skill?</p>
 <p>In Tap Road, your reflexes are your greatest weapon. With dangers emerging at every turn, one split-second lapse means game over. The adrenaline rush of narrowly dodging obstacles will keep you hooked, pushing you to master the art of high-speed navigation on these dazzling neon roads.</p>
